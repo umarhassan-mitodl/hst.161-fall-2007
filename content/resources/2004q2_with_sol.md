@@ -4,6 +4,8 @@ description: This resource contains quizes related to this course.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/5984d740eecee2ef8f4d82fb2b32eb2d_2004q2_with_sol.pdf
 file_size: 108089
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

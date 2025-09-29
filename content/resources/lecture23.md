@@ -5,6 +5,8 @@ description: This resource contains information about history, mechanisms and ap
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/432f8b88a64ad8a2aae7b877019a4532_lecture23.pdf
 file_size: 103761
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

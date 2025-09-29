@@ -2,6 +2,8 @@
 content_type: page
 description: 'The calendar section presents reading assignments as preparation for
   lectures, for short papers and questions, and for problem sets.  '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -251,7 +253,7 @@ Sebat, Jonathan, et al. "Strong Associations of De Novo Copy Number Mutations wi
 
 Iafrate, A. John, Lars Feuk, Miguel N. Rivera, Marc L. Listewnik, Patricia K. Donahoe, Ying Qi, Stephen W. Scherer, and Charles Lee. "Detection of Large-scale Variation in the Human Genome." _Nature Genetics_ 36 (2004): 949-951.
 
-{{% resource_link "08af1ef6-fc5c-4c5d-a3e2-798387a86844" "OMIM: Autism" %}}
+[OMIM: Autism](https://www.ncbi.nlm.nih.gov/omim?Db=omim&Cmd=DetailsSearch&Term=Autism)
 
 ### Problem set 2 reading
 
@@ -317,7 +319,7 @@ Genetic deafness
 
 Tsakiri, Kalliopi D., et al. "Adult-onset Pulmonary Fibrosis Caused by Mutations in Telomerase." _PNAS_ 104 (2007): 7552-7557.
 
-{{% resource_link "f504cec9-69df-45c2-a8fd-47751f1fe024" "Molecular Biology of The Cell" %}}
+[Molecular Biology of The Cell](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=mboc4.TOC&depth=2)
 
 ### For reading assignment 3
 
@@ -381,7 +383,7 @@ Puccio, Helene, and Michel Koenig. "Friedreich Ataxia: A Paradigm for Mitochondr
 Epigenetics/imprinting/X-inactivation
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "4b9aab64-0245-4285-badb-911f334aed84" "Hydatiform Mole" %}}
+[Hydatiform Mole](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1050289/)
 {{< tdclose >}}
 
 {{< trclose >}}

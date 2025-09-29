@@ -9,6 +9,8 @@ description: 'This resource discusses about fish, unbalanced sructural abnormali
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/06bd6b8374c591b56a3e4d87dc524cd7_lecture10_giersch.pdf
 file_size: 344839
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

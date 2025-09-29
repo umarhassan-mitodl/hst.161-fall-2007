@@ -6,6 +6,8 @@ description: This resource contains information about how do you determine where
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/642617b3a6e5ae42e5c443ad4b281b99_lecture24.pdf
 file_size: 145258
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

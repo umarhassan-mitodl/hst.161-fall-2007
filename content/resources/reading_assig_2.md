@@ -4,6 +4,8 @@ description: This resource includes three question papers based on the readings.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/a0914cd115720c64f9fe42fa8d830227_reading_assig_2.pdf
 file_size: 35165
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

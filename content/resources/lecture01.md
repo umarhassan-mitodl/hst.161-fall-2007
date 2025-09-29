@@ -5,6 +5,8 @@ description: This resource discusses about goals of medical genetics and evidenc
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/48ec9739fcea532d1f78b5a97650eed6_lecture01.pdf
 file_size: 819363
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
