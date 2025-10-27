@@ -4,8 +4,6 @@ description: This resource contains information about hemophilia.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/eefa5f8e1a20d56e6f19582115812aa3_lecture06.pdf
 file_size: 126890
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

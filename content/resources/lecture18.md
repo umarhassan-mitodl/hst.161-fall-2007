@@ -4,8 +4,6 @@ description: This resource contains information about cancer genetics.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/531842ddec9fe95d827508c533cb4c84_lecture18.pdf
 file_size: 79685
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

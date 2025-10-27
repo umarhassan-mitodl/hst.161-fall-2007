@@ -4,8 +4,6 @@ description: This resource contains information about mithochondrial disorders.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/d2f967ef36a90a552b3966b2ddba5041_lecture07.pdf
 file_size: 74878
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

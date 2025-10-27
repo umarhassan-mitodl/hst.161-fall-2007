@@ -4,8 +4,6 @@ description: This resource contains information about williams syndrome.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/c174d697c16cff33655e0235831a1eea_lecture10.pdf
 file_size: 117652
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

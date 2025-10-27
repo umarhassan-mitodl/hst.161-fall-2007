@@ -4,8 +4,6 @@ description: New image Upload
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/8e99753cb130aca669f5fe52628d3d7a_hst-161f07-th.jpg
 file_size: 5044
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "Diagram of two approaches for collecting families for a linkage analysis.\
     \ Top (A): part of a Huntington's disease analysis from a single large pedigree.\

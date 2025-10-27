@@ -5,8 +5,6 @@ description: This resource contains questions on distance between the disease ge
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/57efb5b96d4f3a11b0d7909096848f43_3a_explanation.pdf
 file_size: 55645
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

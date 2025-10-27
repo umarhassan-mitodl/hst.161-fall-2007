@@ -5,8 +5,6 @@ description: This resource discusses about the normal motor unit, the motoneuron
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/1c5959ee06beec3d44a57e75b7e44708_lecture03_hand.pdf
 file_size: 50802
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

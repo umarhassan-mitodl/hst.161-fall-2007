@@ -5,8 +5,6 @@ description: This resource discusses about DNA sequencevariation, accuracy of DN
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/5734324ad91961279d2c6f967094ac6e_lecture03_lod.pdf
 file_size: 475096
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

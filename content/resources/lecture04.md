@@ -5,8 +5,6 @@ description: This resource contains information about historical background posi
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/d4526bcc77becc689d9a089c38753165_lecture04.pdf
 file_size: 44088
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains information about chromosomes.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/b2bb27e2d5e018a3a5208246c84f0e05_lecture09.pdf
 file_size: 73405
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

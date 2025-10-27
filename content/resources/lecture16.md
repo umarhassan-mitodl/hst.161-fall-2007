@@ -5,8 +5,6 @@ description: This resource contains information about diagnostic criteria and ex
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/662e2e97b6538b21d1f869e7e31d2680_lecture16.pdf
 file_size: 68511
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains a practice task for the students.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/5bd8d45238c661bfd676bd52f792d062_problem_set_2.pdf
 file_size: 131924
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains information about genomic and epigenomic stu
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/8a512e50eccb2f229aa06b3dacc51999_lecture22.pdf
 file_size: 112168
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

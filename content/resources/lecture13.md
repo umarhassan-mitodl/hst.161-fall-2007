@@ -4,8 +4,6 @@ description: This resource contains information about huntington?s disease.
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/c23b51dd3311f7731cc96e5f08ecd611_lecture13.pdf
 file_size: 103295
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

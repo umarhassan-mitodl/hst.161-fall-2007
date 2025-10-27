@@ -4,8 +4,6 @@ description: ''
 file: /courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/8844d06cc6ee904f9e2c58df9056f8d7_lecture1.pdf
 file_size: 46911
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
